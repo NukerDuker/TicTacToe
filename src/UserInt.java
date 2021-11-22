@@ -74,5 +74,6 @@ public class UserInt {
         check += game.makeMove(1, 1);
         System.out.println(check);
         String res = "Draw[[0, X, 0], [X, X, 0], [X, 0, X]]Game was ended";
+        String res = "Draw[[0, X, 0], [X, X, 0], [X, 0, X]]Game was ended";
     }
 }
